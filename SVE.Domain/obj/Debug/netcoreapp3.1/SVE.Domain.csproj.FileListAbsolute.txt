@@ -1,0 +1,12 @@
+D:\Projeto.Net\SVE-EFW\SVE\SVE.Domain\bin\Debug\netcoreapp3.1\SVE.Domain.deps.json
+D:\Projeto.Net\SVE-EFW\SVE\SVE.Domain\bin\Debug\netcoreapp3.1\SVE.Domain.runtimeconfig.json
+D:\Projeto.Net\SVE-EFW\SVE\SVE.Domain\bin\Debug\netcoreapp3.1\SVE.Domain.runtimeconfig.dev.json
+D:\Projeto.Net\SVE-EFW\SVE\SVE.Domain\bin\Debug\netcoreapp3.1\SVE.Domain.dll
+D:\Projeto.Net\SVE-EFW\SVE\SVE.Domain\bin\Debug\netcoreapp3.1\SVE.Domain.pdb
+D:\Projeto.Net\SVE-EFW\SVE\SVE.Domain\obj\Debug\netcoreapp3.1\SVE.Domain.csproj.CoreCompileInputs.cache
+D:\Projeto.Net\SVE-EFW\SVE\SVE.Domain\obj\Debug\netcoreapp3.1\SVE.Domain.AssemblyInfoInputs.cache
+D:\Projeto.Net\SVE-EFW\SVE\SVE.Domain\obj\Debug\netcoreapp3.1\SVE.Domain.AssemblyInfo.cs
+D:\Projeto.Net\SVE-EFW\SVE\SVE.Domain\obj\Debug\netcoreapp3.1\SVE.Domain.dll
+D:\Projeto.Net\SVE-EFW\SVE\SVE.Domain\obj\Debug\netcoreapp3.1\SVE.Domain.pdb
+D:\Projeto.Net\SVE-EFW\SVE\SVE.Domain\obj\Debug\netcoreapp3.1\SVE.Domain.genruntimeconfig.cache
+D:\Projeto.Net\SVE-EFW\SVE\SVE.Domain\obj\Debug\netcoreapp3.1\SVE.Domain.csprojAssemblyReference.cache

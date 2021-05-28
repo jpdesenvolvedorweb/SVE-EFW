@@ -1,0 +1,15 @@
+D:\Projeto.Net\SVE-EFW\SVE\SVE.Infra.Data\bin\Debug\netcoreapp3.1\SVE.Infra.Data.deps.json
+D:\Projeto.Net\SVE-EFW\SVE\SVE.Infra.Data\bin\Debug\netcoreapp3.1\SVE.Infra.Data.runtimeconfig.json
+D:\Projeto.Net\SVE-EFW\SVE\SVE.Infra.Data\bin\Debug\netcoreapp3.1\SVE.Infra.Data.runtimeconfig.dev.json
+D:\Projeto.Net\SVE-EFW\SVE\SVE.Infra.Data\bin\Debug\netcoreapp3.1\SVE.Infra.Data.dll
+D:\Projeto.Net\SVE-EFW\SVE\SVE.Infra.Data\bin\Debug\netcoreapp3.1\SVE.Infra.Data.pdb
+D:\Projeto.Net\SVE-EFW\SVE\SVE.Infra.Data\bin\Debug\netcoreapp3.1\SVE.Domain.dll
+D:\Projeto.Net\SVE-EFW\SVE\SVE.Infra.Data\bin\Debug\netcoreapp3.1\SVE.Domain.pdb
+D:\Projeto.Net\SVE-EFW\SVE\SVE.Infra.Data\obj\Debug\netcoreapp3.1\SVE.Infra.Data.csprojAssemblyReference.cache
+D:\Projeto.Net\SVE-EFW\SVE\SVE.Infra.Data\obj\Debug\netcoreapp3.1\SVE.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Projeto.Net\SVE-EFW\SVE\SVE.Infra.Data\obj\Debug\netcoreapp3.1\SVE.Infra.Data.AssemblyInfoInputs.cache
+D:\Projeto.Net\SVE-EFW\SVE\SVE.Infra.Data\obj\Debug\netcoreapp3.1\SVE.Infra.Data.AssemblyInfo.cs
+D:\Projeto.Net\SVE-EFW\SVE\SVE.Infra.Data\obj\Debug\netcoreapp3.1\SVE.Infra.Data.csproj.CopyComplete
+D:\Projeto.Net\SVE-EFW\SVE\SVE.Infra.Data\obj\Debug\netcoreapp3.1\SVE.Infra.Data.dll
+D:\Projeto.Net\SVE-EFW\SVE\SVE.Infra.Data\obj\Debug\netcoreapp3.1\SVE.Infra.Data.pdb
+D:\Projeto.Net\SVE-EFW\SVE\SVE.Infra.Data\obj\Debug\netcoreapp3.1\SVE.Infra.Data.genruntimeconfig.cache
